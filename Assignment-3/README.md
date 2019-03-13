@@ -1,30 +1,30 @@
-# Udacity--Project-Investigate-TMDB-Movies-Dataset
+# Udacity-MLFoundation-Nanodegree
+This is a repository containing solutions to the assignments that are a part of the [Udacity Machine Learning Foundation Nanodegree program](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-infn).
 
 ## Project Overview
-In this project, we have to analyze a dataset and then communicate our findings about it.
-We will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
-
-What do I need to install?
+In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+![Libraries image](https://d17h27t6h515a5.cloudfront.net/topher/2017/September/59b1d090_investigate/investigate.png)
+### What do I need to install?
 You will need an installation of Python, plus the following libraries:
-* pandas
+
 * NumPy
+* Pandas
 * Matplotlib
 * csv
 
-It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
-
 
 ### Why this Project?
-In this project, we have to go through the data analysis process and see how everything fits together.
-I have also use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! 
+In this project, you'll go through the data analysis process and see how everything fits together. Later Nanodegree projects will focus on individual pieces of the data analysis process.
 
-### What I have learn?
-After completing the project, I have learned following :
+You'll use the Python libraries NumPy, Pandas, and Matplotlib which make writing the data analysis codes in Python a lot easier! Not only that, these are sought-after skills by employers!
 
-* Know all the steps involved in a typical data analysis process
-* Be comfortable posing questions that can be answered with a given dataset and then answering those questions
-* Know how to investigate problems in a dataset and wrangle the data into a format you can use
-* Have practice communicating the results of your analysis
-* Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code
-* Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently
-* Know how to use Matplotlib to produce plots showing your findings
+### What will I learn?
+After completing the project, you will:
+
+1. Know all the steps involved in a typical data analysis process.
+2. Be comfortable posing questions that can be answered with a given dataset and then answering those questions.
+3. Know how to investigate problems in a dataset and wrangle the data into a format you can use.
+4. Have experience communicating the results of your analysis.
+5. Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code.
+6. Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently.
+7. Know how to use Matplotlib to produce plots showing your findings.
